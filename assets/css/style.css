@@ -1,13 +1,16 @@
+/* Unique */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Unique */
 body {
     background-color: #d9dcd6;
 }
 
+/* Unique */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +18,19 @@ body {
     color: #ffffff;
 }
 
+/* Unique */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Unique */
 .header h1 .seo {
     color: #d9dcd6;
     font-style: normal;
 }
 
+/* Split div element into header and nav elements with .header class */
 .header header,
 .header nav {
     padding-top: 15px;
@@ -34,24 +40,29 @@ body {
     font-size: 20px;
 }
 
+/* Unique */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Unique */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Unique */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Unique */
 p {
     font-size: 16px;
 }
 
+/* Unique */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,22 +72,26 @@ p {
     background-position: center;
 }
 
+/* Unique */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Unique */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Unique */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Unique */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,6 +155,7 @@ p {
     font-size: 36px;
 }
 
+/* Unique */
 .footer {
     padding: 30px;
     clear: both;
@@ -147,6 +163,7 @@ p {
     text-align: center;
 }
 
+/* Unique */
 .footer h2 {
     font-size: 20px;
 }
